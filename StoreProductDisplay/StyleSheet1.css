@@ -1,0 +1,18 @@
+﻿
+.Menu
+{  
+  width:100%;
+}
+ul.level1 {
+    width:100% !important;
+    text-align:center;
+}
+.level1 li {
+    width:15%;
+}
+ul.level2 {
+    width:100% !important;
+}
+.level2 li {
+    width:100%;
+}

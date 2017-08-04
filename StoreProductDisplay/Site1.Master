@@ -1,0 +1,64 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="StoreProductDisplay.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="StyleSheet1.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table style="width: 100%;">
+                <tr>
+                    <td>
+                        <a href="index.aspx">
+                            <img alt="" src="images.png" height="100px" />
+                        </a>
+                    </td>
+                    <td style="text-align:right; vertical-align:middle;">
+                        <asp:TextBox ID="TextBoxSearch" runat="server" ToolTip="Search" Width="196px" placeholder="Search"></asp:TextBox>
+                        <asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="search.png" Height="16px" OnClick="ImageButton1_Click"/>
+                        <br />
+                        <asp:Label ID="Label1" runat="server" ForeColor="Red"></asp:Label>
+                    </td>
+                    <td style="text-align:right">
+                        <a href="Login.aspx" style="padding-left: 10%">Log In</a>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div>
+            <asp:Menu ID="Menu1" runat="server" CssClass="Menu" StaticSubMenuIndent="10px" Orientation="Horizontal" Font-Bold="True" BackColor="#0099FF" DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="Large" ForeColor="#990000">
+                <DynamicHoverStyle BackColor="#996600" ForeColor="White" />
+                <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                <DynamicMenuStyle BackColor="#FFFBD6" />
+                <DynamicSelectedStyle BackColor="#FFCC66" />
+                <Items>
+                    <asp:MenuItem NavigateUrl="~/index.aspx" Text="Home" Value="Home"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/Home.aspx" Text="All Products" Value="AllProducts"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/ViewStoreLocation.aspx" Text="Branches" Value="Branches"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/AboutUs.aspx" Text="About Us" Value="About Us"></asp:MenuItem>
+                </Items>
+
+                <StaticHoverStyle BackColor="#990000" ForeColor="White" />
+                <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                <StaticSelectedStyle BackColor="#FFCC66" />
+
+            </asp:Menu>
+            <br />
+            <asp:SiteMapPath ID="SiteMapPath1" runat="server" OnItemCreated="SiteMapPath1_ItemCreated"></asp:SiteMapPath>
+            <br />
+            <br />
+
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="contentBody" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode title="Root" >
+    <siteMapNode url="~/AdminHome.aspx" title="Home"  description="" />
+    <siteMapNode url="~/AddProduct.aspx" title="Add Product"  description="" />
+    <siteMapNode url="~/EditProductInfo.aspx" title="Edit/Delete Product" description="" >
+      <siteMapNode url="ChangeProductImage.aspx" title="Change Product Image" />
+    </siteMapNode>
+    <siteMapNode url="~/AddEditCategory.aspx" title="Add New/Edit/Delete Product Category"  description="" />
+    <siteMapNode url="~/AddEditBranches.aspx" title="Add New/Edit/Delete Store"  description="" >
+      <siteMapNode url="ChangeStoreImage.aspx" title="Change Store Image"  description="" />
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

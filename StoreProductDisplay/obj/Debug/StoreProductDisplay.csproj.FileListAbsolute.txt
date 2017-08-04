@@ -1,0 +1,99 @@
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\ApplicationInsights.config
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\roslyn\csc.exe
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\roslyn\System.Collections.Immutable.dll
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\roslyn\vbc.exe
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\roslyn\VBCSCompiler.exe
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\roslyn\VBCSCompiler.exe.config
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\StoreProductDisplay.dll.config
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\StoreProductDisplay.dll
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\StoreProductDisplay.pdb
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.Web.dll
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.WindowsServer.dll
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.ApplicationInsights.dll
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.Web.xml
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.WindowsServer.xml
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.ApplicationInsights.xml
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\obj\Debug\StoreProductDisplay.csprojResolveAssemblyReference.cache
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\obj\Debug\StoreProductDisplay.dll
+c:\users\gem\documents\visual studio 2015\Projects\StoreProductDisplay\StoreProductDisplay\obj\Debug\StoreProductDisplay.pdb
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\ApplicationInsights.config
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\roslyn\csc.exe
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\roslyn\vbc.exe
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\roslyn\VBCSCompiler.exe
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\StoreProductDisplay.dll.config
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\StoreProductDisplay.dll
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\StoreProductDisplay.pdb
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.Web.dll
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.ApplicationInsights.dll
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.Web.xml
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.ApplicationInsights.xml
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\obj\Debug\StoreProductDisplay.csprojResolveAssemblyReference.cache
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\obj\Debug\StoreProductDisplay.dll
+C:\Users\GEM\git\StoreProductDisplay\StoreProductDisplay\obj\Debug\StoreProductDisplay.pdb
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\ApplicationInsights.config
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\roslyn\csc.exe
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\roslyn\vbc.exe
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\roslyn\VBCSCompiler.exe
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\StoreProductDisplay.dll.config
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\StoreProductDisplay.dll
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\StoreProductDisplay.pdb
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.Web.dll
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.ApplicationInsights.dll
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.Web.xml
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.ApplicationInsights.xml
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\obj\Debug\StoreProductDisplay.csprojResolveAssemblyReference.cache
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\obj\Debug\StoreProductDisplay.dll
+C:\Users\GEM\Desktop\StoreProductDisplay\StoreProductDisplay\obj\Debug\StoreProductDisplay.pdb
