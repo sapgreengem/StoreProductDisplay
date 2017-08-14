@@ -5,7 +5,7 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="contentBody" runat="server">
 
-    <div style="margin-left:350px; margin-right: 450px; text-align: center">
+    <div style="text-align: center">
         <asp:ScriptManager ID="ScriptManager1" runat="server">
         </asp:ScriptManager>
         <asp:Label ID="LabelInfo" runat="server"></asp:Label>

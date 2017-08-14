@@ -24,7 +24,7 @@
         <div style="margin-left:200px; margin-right:100px; width:auto;">
             <%foreach (StoreProductDisplay.imgArray objp in myCollection)
                 {%>
-                    <div style=" height:320px; width:250px; float:left; text-align:center; ">
+                    <div style=" height:260px; width:210px; float:left; text-align:center; ">
                         <img src="<%Response.Write(objp.Product_Picture);%>" style="height:70%;" />
                         <br/>
                         <label><%Response.Write(objp.Product_Name);%></label>
